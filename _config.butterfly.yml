@@ -149,7 +149,7 @@ index_top_img_height:
 
 # The subtitle on homepage
 subtitle:
-  enable: false
+  enable: true
   # Typewriter Effect
   effect: true
   # Customize typed.js
@@ -165,6 +165,8 @@ subtitle:
   source: false
   # If you close the typewriter effect, the subtitle will only show the first line of sub
   sub:
+    - 欢迎来到Cox David的小窝
+    - 要记住粉色头发的可爱女孩们哦
 
 # Article layout on the homepage
 # 1: Cover on the left, info on the right
